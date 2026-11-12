@@ -31,43 +31,76 @@ I combine analytical thinking, strategic vision, and technology to identify oppo
 
 <img src="https://raw.githubusercontent.com/gabrielladiogenes/LOC-VIEW-AI/main/locview-cover.png" width="100%" alt="LOC VIEW project cover">
 
-### LOC VIEW
+<h3>LOC VIEW</h3>
 
-**Geolocation & Address Intelligence**
+<strong>Geolocation & Address Intelligence</strong>
 
+<p>
 A solution for address validation and geolocation, connecting location data to maps and street-level imagery.
+</p>
 
-**Technologies used**
+<strong>Technologies used</strong>
 
-<img src="https://skillicons.dev/icons?i=python" height="30" alt="Python">
-<img src="https://cdn.simpleicons.org/googlecolab" height="30" alt="Google Colab">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" alt="Python" title="Python">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gradio" height="32" alt="Gradio" title="Gradio">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openstreetmap" height="32" alt="OpenStreetMap" title="OpenStreetMap">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="32" alt="Google Colab" title="Google Colab">
+</p>
 
-<br>
+<p>
+<code>Python</code> &nbsp;
+<code>Gradio</code> &nbsp;
+<code>OpenStreetMap</code> &nbsp;
+<code>Google Colab</code>
+</p>
 
-`Python` · `Gradio` · `OpenStreetMap` · `Google Colab`
+<strong>Status:</strong> Published
 
-**Status:** Published
+<br><br>
+
+<a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">View repository</a>
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://placehold.co/600x400/E9EDF0/45545C/png?text=SAFE+FOOD+AI" width="100%" alt="SAFE FOOD AI project cover">
 
-### SAFE FOOD AI
+<h3>SAFE FOOD AI</h3>
 
-**Generative AI & Food Communication**
+<strong>Generative AI & Food Communication</strong>
 
+<p>
 An AI-powered solution that generates food-order instructions and helps communicate dietary restrictions, with human confirmation when necessary.
+</p>
 
-**Technologies used**
+<strong>Technologies used</strong>
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,vscode" height="30" alt="Next.js, TypeScript, React and VS Code">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32" alt="React" title="React">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VS Code" title="VS Code">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
+</p>
 
-<br>
+<p>
+<code>Next.js</code> &nbsp;
+<code>TypeScript</code> &nbsp;
+<code>React</code> &nbsp;
+<code>Gemini</code> &nbsp;
+<code>VS Code</code> &nbsp;
+<code>Make</code>
+</p>
 
-`Next.js` · `TypeScript` · `React` · `Gemini` · `VS Code` · `Make`
-
-**Status:** In development
+<strong>Status:</strong> In development
 
 </td>
 </tr>
@@ -79,8 +112,8 @@ An AI-powered solution that generates food-order instructions and helps communic
 
 - **Data Analysis:** Interpreting information to support strategic decisions.
 - **Problem Solving:** Developing practical solutions to real-world challenges.
-- **Analytical Thinking:** Identifying patterns, relationships and opportunities.
-- **Fast Learning:** Exploring new technologies, tools and approaches.
+- **Analytical Thinking:** Identifying patterns, relationships, and opportunities.
+- **Fast Learning:** Exploring new technologies, tools, and approaches.
 - **AI-Powered Development:** Building intelligent tools and solutions.
 
 ---
@@ -89,37 +122,61 @@ An AI-powered solution that generates food-order instructions and helps communic
 
 ### Programming & Development
 
-<img src="https://skillicons.dev/icons?i=python,ts,nextjs" height="42" alt="Python, TypeScript and Next.js">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" title="Next.js">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="42" alt="SQL" title="SQL">
+</p>
 
-`Python` · `TypeScript` · `Next.js` · `SQL`
+`Python` &nbsp; `TypeScript` &nbsp; `Next.js` &nbsp; `SQL`
 
 ### Business Intelligence & Analytics
 
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="38" alt="Microsoft Excel">
+<p>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" title="Power BI">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel" title="Excel">
+</p>
 
-`Power BI` · `Excel`
+`Power BI` &nbsp; `Excel`
 
 ### Development & Automation
 
-<img src="https://skillicons.dev/icons?i=github,vscode" height="42" alt="GitHub and VS Code">
-<img src="https://cdn.simpleicons.org/googlecolab" height="38" alt="Google Colab">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="42" alt="Google Colab" title="Google Colab">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/make" height="42" alt="Make" title="Make">
+</p>
 
-`GitHub` · `VS Code` · `Google Colab` · `Make`
+`GitHub` &nbsp; `VS Code` &nbsp; `Google Colab` &nbsp; `Make`
 
 ### Vibe Coding & AI-Assisted Development
 
-`ChatGPT` · `Claude`
+<p>
+<img src="https://cdn.simpleicons.org/openai" height="42" alt="ChatGPT" title="ChatGPT">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/claude" height="42" alt="Claude" title="Claude">
+</p>
+
+`ChatGPT` &nbsp; `Claude`
 
 ---
 
 ## Languages
 
-**Portuguese:** Native
-
-**English:** Advanced
+- **Portuguese:** Native
+- **English:** Advanced
 
 ---
 
 ## Contact
 
-[Email](mailto:anagabrielladev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ana-gabriella-diógenes-772548306/)
+[Email](mailto:anagabrielladev@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ana-gabriella-diógenes-772548306/)
