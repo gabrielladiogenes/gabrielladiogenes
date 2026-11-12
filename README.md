@@ -42,25 +42,20 @@ A solution for address validation and geolocation, connecting location data to m
 <strong>Technologies used</strong>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" title="Python">
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/gradio" height="32" alt="Gradio" title="Gradio">
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openstreetmap" height="32" alt="OpenStreetMap" title="OpenStreetMap">
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="32" alt="Google Colab" title="Google Colab">
+<img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" title="Git">
 </p>
 
 <p>
-<code>Python</code> &nbsp;
-<code>Gradio</code> &nbsp;
-<code>OpenStreetMap</code> &nbsp;
-<code>Google Colab</code>
+Python · Gradio · OpenStreetMap · Google Colab
 </p>
 
-<strong>Status:</strong> Published
-
-<br><br>
+<p><strong>Status:</strong> Published</p>
 
 <a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">View repository</a>
 
@@ -80,27 +75,22 @@ An AI-powered solution that generates food-order instructions and helps communic
 <strong>Technologies used</strong>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" title="Next.js">
+<img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js" title="Next.js">
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32" alt="React" title="React">
+<img src="https://skillicons.dev/icons?i=react" height="32" alt="React" title="React">
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="32" alt="VS Code" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code" title="VS Code">
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
 </p>
 
 <p>
-<code>Next.js</code> &nbsp;
-<code>TypeScript</code> &nbsp;
-<code>React</code> &nbsp;
-<code>Gemini</code> &nbsp;
-<code>VS Code</code> &nbsp;
-<code>Make</code>
+Next.js · TypeScript · React · Gemini · VS Code · Make
 </p>
 
-<strong>Status:</strong> In development
+<p><strong>Status:</strong> In development</p>
 
 </td>
 </tr>
@@ -123,50 +113,48 @@ An AI-powered solution that generates food-order instructions and helps communic
 ### Programming & Development
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" title="Python">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" title="Next.js">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="42" alt="SQL" title="SQL">
+<img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js" title="Next.js">
 </p>
 
-`Python` &nbsp; `TypeScript` &nbsp; `Next.js` &nbsp; `SQL`
+Python · TypeScript · Next.js · SQL
 
 ### Business Intelligence & Analytics
 
 <p>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="42" alt="Power BI" title="Power BI">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="42" alt="Excel" title="Excel">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="Power BI">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32" alt="Excel">
 </p>
 
-`Power BI` &nbsp; `Excel`
+Power BI · Excel
 
 ### Development & Automation
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" alt="GitHub" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" title="VS Code">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="42" alt="Google Colab" title="Google Colab">
+<img src="https://cdn.simpleicons.org/googlecolab" height="42" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="42" alt="Make" title="Make">
 </p>
 
-`GitHub` &nbsp; `VS Code` &nbsp; `Google Colab` &nbsp; `Make`
+GitHub · VS Code · Google Colab · Make
 
 ### Vibe Coding & AI-Assisted Development
 
 <p>
-<img src="https://cdn.simpleicons.org/openai" height="42" alt="ChatGPT" title="ChatGPT">
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/claude" height="42" alt="Claude" title="Claude">
+<img src="https://img.shields.io/badge/ChatGPT-237A57?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="ChatGPT">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" height="32" alt="Claude">
 </p>
 
-`ChatGPT` &nbsp; `Claude`
+ChatGPT · Claude
 
 ---
 
