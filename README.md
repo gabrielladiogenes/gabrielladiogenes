@@ -48,12 +48,10 @@ A solution for address validation and geolocation, connecting location data to m
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openstreetmap" height="32" alt="OpenStreetMap" title="OpenStreetMap">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" title="Git">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="32" alt="Google Colab" title="Google Colab">
 </p>
 
-<p>
-Python · Gradio · OpenStreetMap · Google Colab
-</p>
+<p>Python · Gradio · OpenStreetMap · Google Colab</p>
 
 <p><strong>Status:</strong> Published</p>
 
@@ -86,9 +84,7 @@ An AI-powered solution that generates food-order instructions and helps communic
 <img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
 </p>
 
-<p>
-Next.js · TypeScript · React · Gemini · VS Code · Make
-</p>
+<p>Next.js · TypeScript · React · Gemini · VS Code · Make</p>
 
 <p><strong>Status:</strong> In development</p>
 
@@ -125,9 +121,9 @@ Python · TypeScript · Next.js · SQL
 ### Business Intelligence & Analytics
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" alt="Power BI">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="32" alt="Excel">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="42" width="42" alt="Power BI" title="Power BI">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-excel.svg" height="42" width="42" alt="Excel" title="Excel">
 </p>
 
 Power BI · Excel
@@ -139,7 +135,7 @@ Power BI · Excel
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" title="VS Code">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlecolab" height="42" alt="Google Colab" title="Google Colab">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="42" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="42" alt="Make" title="Make">
 </p>
@@ -149,9 +145,9 @@ GitHub · VS Code · Google Colab · Make
 ### Vibe Coding & AI-Assisted Development
 
 <p>
-<img src="https://img.shields.io/badge/ChatGPT-237A57?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="ChatGPT">
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" height="32" alt="Claude">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="42" width="42" alt="ChatGPT" title="ChatGPT">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="42" width="42" alt="Claude" title="Claude">
 </p>
 
 ChatGPT · Claude
