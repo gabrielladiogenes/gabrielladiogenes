@@ -60,7 +60,7 @@ A solution for address validation and geolocation, connecting location data to m
 </td>
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x400/E9EDF0/45545C/png?text=SAFE+FOOD+AI" width="100%" alt="SAFE FOOD AI project cover">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/safe-food-ai/main/public/images/1.jpg" width="100%" alt="SAFE FOOD AI project logo">
 
 <h3>SAFE FOOD AI</h3>
 
@@ -86,7 +86,11 @@ An AI-powered solution that generates food-order instructions and helps communic
 
 <p>Next.js · TypeScript · React · Gemini · VS Code · Make</p>
 
-<p><strong>Status:</strong> In development</p>
+<p><strong>Status:</strong> MVP Published</p>
+
+<a href="https://github.com/gabrielladiogenes/safe-food-ai">View repository</a>
+&nbsp;·&nbsp;
+<a href="https://safe-food-ai-mu.vercel.app/demo">Live demo</a>
 
 </td>
 </tr>
