@@ -3,7 +3,7 @@
 **English** &nbsp;·&nbsp; [Português](./README.pt-BR.md)
 
 </div>
-
+ 
 # Ana Gabriella Diógenes
 
 ### Business Intelligence & Analytics
