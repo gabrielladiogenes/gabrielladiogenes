@@ -52,7 +52,7 @@ An address validation and geolocation application that processes location data, 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="32" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="32" alt="Render" title="Render">
+<img src="https://skillicons.dev/icons?i=render" height="32" alt="Render" title="Render">
 </p>
 
 <p>
@@ -99,7 +99,7 @@ An AI-powered application that interprets food-order instructions and dietary re
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/666666" height="32" alt="Vercel" title="Vercel">
+<img src="https://skillicons.dev/icons?i=vercel" height="32" alt="Vercel" title="Vercel">
 </p>
 
 <p>
@@ -217,9 +217,9 @@ Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim 
 ### Deployment & Infrastructure
 
 <p>
-<img src="https://cdn.simpleicons.org/vercel/666666" height="42" width="42" alt="Vercel" title="Vercel">
+<img src="https://skillic.dev/icons?i=vercel" height="42" width="42" alt="Vercel" title="Vercel">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="42" width="42" alt="Render" title="Render">
+<img src="https://skillicons.dev/icons?i=render" height="42" width="42" alt="Render" title="Render">
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub">
 </p>
