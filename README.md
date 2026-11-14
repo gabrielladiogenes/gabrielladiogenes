@@ -92,6 +92,8 @@ An AI-powered solution that generates food-order instructions and helps communic
 &nbsp;·&nbsp;
 <a href="https://safe-food-ai-mu.vercel.app/demo">Live demo</a>
 
+<br>
+
 </td>
 </tr>
 </table>
