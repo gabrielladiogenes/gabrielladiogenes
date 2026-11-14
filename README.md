@@ -15,6 +15,7 @@ Brazil · Universidade de Fortaleza (UNIFOR)
 
 ---
 
+
 ## About me
 
 I explore the connection between data, artificial intelligence, and business to develop practical solutions that address real-world challenges.
