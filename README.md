@@ -51,7 +51,7 @@ An address validation and geolocation application that processes location data, 
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="32" height="32" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" width="32" height="32" alt="Render" title="Render">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/gabrielladiogenes/main/assets/render-logo.svg" width="32" height="32" alt="Render" title="Render">
 </p>
 
 <p>
@@ -206,7 +206,7 @@ AI-assisted coding · Natural-language specifications · Iterative development �
 ### Generative AI & Integrations
 
 <p>
-<img src="https://cdn.simpleicons.org/googlegemini" height="42" width="42" alt="Google Gemini" title="Google Gemini">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/gabrielladiogenes/main/assets/gemini-logo.svg" height="42" width="42" alt="Google Gemini" title="Google Gemini">
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="42" width="42" alt="Make" title="Make">
 &nbsp;&nbsp;&nbsp;
@@ -226,7 +226,7 @@ Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim 
   <img src="https://cdn.simpleicons.org/vercel/000000" height="42" width="42" alt="Vercel" title="Vercel">
 </picture>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="42" width="42" alt="Render" title="Render">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/gabrielladiogenes/main/assets/render-logo.svg" height="42" width="42" alt="Render" title="Render">
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub">
 </p>
