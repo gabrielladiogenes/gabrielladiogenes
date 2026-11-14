@@ -29,7 +29,9 @@ I combine analytical thinking, strategic vision, and technology to identify oppo
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/gabrielladiogenes/LOC-VIEW-AI/main/locview-cover.png" width="100%" alt="LOC VIEW project cover">
+<a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">
+  <img src="https://raw.githubusercontent.com/gabrielladiogenes/LOC-VIEW-AI/main/locview-cover.png" width="100%" height="180" alt="LOC VIEW project cover">
+</a>
 
 <h3>LOC VIEW</h3>
 
@@ -56,11 +58,17 @@ A solution for address validation and geolocation, connecting location data to m
 <p><strong>Status:</strong> Published</p>
 
 <a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">View repository</a>
+&nbsp;·&nbsp;
+<a href="https://loc-view-ai.onrender.com">Live demo</a>
+
+<br>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/gabrielladiogenes/safe-food-ai/main/public/images/1.jpg" width="100%" alt="SAFE FOOD AI project logo">
+<a href="https://github.com/gabrielladiogenes/safe-food-ai">
+  <img src="https://raw.githubusercontent.com/gabrielladiogenes/safe-food-ai/main/public/images/1.jpg" width="100%" height="180" alt="SAFE FOOD AI project logo">
+</a>
 
 <h3>SAFE FOOD AI</h3>
 
