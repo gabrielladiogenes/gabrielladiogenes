@@ -99,7 +99,7 @@ An AI-powered application that interprets food-order instructions and dietary re
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/666666" height="32" alt="Vercel" title="Vercel">
+<img src="https://cdn.simpleicons.org/vercel/000000" height="32" alt="Vercel" title="Vercel">
 </p>
 
 <p>
@@ -217,7 +217,7 @@ Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim 
 ### Deployment & Infrastructure
 
 <p>
-<img src="https://cdn.simpleicons.org/vercel/666666" height="42" width="42" alt="Vercel" title="Vercel">
+<img src="https://cdn.simpleicons.org/vercel/000000" height="42" width="42" alt="Vercel" title="Vercel">
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/render/46E3B7" height="42" width="42" alt="Render" title="Render">
 &nbsp;&nbsp;&nbsp;
