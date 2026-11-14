@@ -1,4 +1,3 @@
-
 <div align="right">
 
 **English** &nbsp;·&nbsp; [Português](./README.pt-BR.md)
@@ -44,15 +43,15 @@ An address validation and geolocation application that processes location data, 
 <strong>Technologies used</strong>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python" title="Python">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gradio" height="32" alt="Gradio" title="Gradio">
+<img src="https://cdn.simpleicons.org/gradio" width="32" height="32" alt="Gradio" title="Gradio">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openstreetmap" height="32" alt="OpenStreetMap" title="OpenStreetMap">
+<img src="https://cdn.simpleicons.org/openstreetmap" width="32" height="32" alt="OpenStreetMap" title="OpenStreetMap">
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="32" alt="Google Colab" title="Google Colab">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="32" height="32" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="32" alt="Render" title="Render">
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="32" height="32" alt="Render" title="Render">
 </p>
 
 <p>
@@ -89,17 +88,21 @@ An AI-powered application that interprets food-order instructions and dietary re
 <strong>Technologies used</strong>
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js" title="Next.js">
+<img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=ts" width="32" height="32" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="32" alt="React" title="React">
+<img src="https://skillicons.dev/icons?i=react" width="32" height="32" alt="React" title="React">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="Tailwind CSS" title="Tailwind CSS">
+<img src="https://skillicons.dev/icons?i=tailwind" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/make" height="32" alt="Make" title="Make">
+<img src="https://cdn.simpleicons.org/make" width="32" height="32" alt="Make" title="Make">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel/000000" height="32" alt="Vercel" title="Vercel">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="32" height="32" alt="Vercel" title="Vercel">
+</picture>
 </p>
 
 <p>
@@ -177,9 +180,9 @@ Power BI · Excel
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" title="VS Code">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="42" alt="Google Colab" title="Google Colab">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="42" height="42" alt="Google Colab" title="Google Colab">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/make" height="42" alt="Make" title="Make">
+<img src="https://cdn.simpleicons.org/make" width="42" height="42" alt="Make" title="Make">
 </p>
 
 GitHub · VS Code · Google Colab · Make
@@ -217,7 +220,11 @@ Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim 
 ### Deployment & Infrastructure
 
 <p>
-<img src="https://cdn.simpleicons.org/vercel/000000" height="42" width="42" alt="Vercel" title="Vercel">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/vercel/000000">
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="42" width="42" alt="Vercel" title="Vercel">
+</picture>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/render/46E3B7" height="42" width="42" alt="Render" title="Render">
 &nbsp;&nbsp;&nbsp;
