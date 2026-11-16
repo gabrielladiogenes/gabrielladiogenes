@@ -6,8 +6,7 @@
 </div>
 
 
-
-<img src="./assets/name-heading.svg" width="500" alt="Ana Gabriella Diógenes">
+<h1>Ana Gabriella Diógenes</h1>
 
 
 
