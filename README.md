@@ -5,7 +5,7 @@
 
 </div>
 
-<font size="6"><strong>Ana Gabriella Diógenes</strong></font>
+<font size="10"><strong>Ana Gabriella Diógenes</strong></font>
 
 <p><strong>Business Intelligence & Analytics</strong></p>
 
