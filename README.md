@@ -1,12 +1,13 @@
+
 <div align="right">
 
 **English** &nbsp;·&nbsp; [Português](./README.pt-BR.md)
 
 </div>
- 
-# Ana Gabriella Diógenes
 
-### Business Intelligence & Analytics
+<h1>Ana Gabriella Diógenes</h1>
+
+<h3>Business Intelligence & Analytics</h3>
 
 Brazil · Universidade de Fortaleza (UNIFOR)
 
@@ -14,7 +15,7 @@ Brazil · Universidade de Fortaleza (UNIFOR)
 
 ---
 
-## About me
+<p><strong>About me</strong></p>
 
 I explore the connection between data, artificial intelligence, and business to develop practical solutions that address real-world challenges.
 
@@ -22,7 +23,7 @@ I combine analytical thinking, strategic vision, and technology to identify oppo
 
 ---
 
-## Featured projects
+<p><strong>Featured projects</strong></p>
 
 <table>
 <tr>
@@ -131,7 +132,7 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Int
 
 ---
 
-## Core skills
+<p><strong>Core skills</strong></p>
 
 - **Data Analysis:** Interpreting information to support strategic decisions.
 - **Problem Solving:** Developing practical solutions to real-world challenges.
@@ -145,9 +146,9 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Int
 
 ---
 
-## Tools & Technologies Used on Projects
+<p><strong>Tools & Technologies Used on Projects</strong></p>
 
-### Programming & Development
+<p><strong>Programming & Development</strong></p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" title="Python">
@@ -163,7 +164,7 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Int
 
 Python · TypeScript · Next.js · React · Tailwind CSS · SQL (Learning)
 
-### Business Intelligence & Analytics
+<p><strong>Business Intelligence & Analytics</strong></p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="42" width="42" alt="Power BI" title="Power BI">
@@ -173,7 +174,7 @@ Python · TypeScript · Next.js · React · Tailwind CSS · SQL (Learning)
 
 Power BI · Excel
 
-### Development & Automation
+<p><strong>Development & Automation</strong></p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub">
@@ -187,7 +188,7 @@ Power BI · Excel
 
 GitHub · VS Code · Google Colab · Make
 
-### Vibe Coding & AI-Assisted Development
+<p><strong>Vibe Coding & AI-Assisted Development</strong></p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="42" width="42" alt="ChatGPT" title="ChatGPT">
@@ -203,7 +204,7 @@ ChatGPT · Claude · Cursor
 AI-assisted coding · Natural-language specifications · Iterative development · Debugging · Code review
 </p>
 
-### Generative AI & Integrations
+<p><strong>Generative AI & Integrations</strong></p>
 
 <p>
 <img src="https://raw.githubusercontent.com/gabrielladiogenes/gabrielladiogenes/main/assets/gemini-logo.svg" height="42" width="42" alt="Google Gemini" title="Google Gemini">
@@ -217,7 +218,7 @@ AI-assisted coding · Natural-language specifications · Iterative development �
 
 Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim API · Google Maps / Street View
 
-### Deployment & Infrastructure
+<p><strong>Deployment & Infrastructure</strong></p>
 
 <p>
 <picture>
@@ -243,13 +244,13 @@ Vercel · Render · GitHub
 
 ---
 
-## Languages
+<p><strong>Languages</strong></p>
 
 - **Portuguese:** Native
 - **English:** Advanced
 
 ---
 
-## Contact
+<p><strong>Contact</strong></p>
 
 [Email](mailto:anagabrielladev@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ana-gabriella-diógenes-772548306/)
