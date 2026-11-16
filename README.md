@@ -5,7 +5,11 @@
 
 </div>
 
-<font size="10"><strong>Ana Gabriella Diógenes</strong></font>
+
+
+<img src="./assets/name-heading.svg" width="500" alt="Ana Gabriella Diógenes">
+
+
 
 <p><strong>Business Intelligence & Analytics</strong></p>
 
