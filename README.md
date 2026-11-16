@@ -221,7 +221,7 @@ Programação assistida por IA · Especificações em linguagem natural · Desen
 
 Google Gemini · Make · WhatsApp (Integração de Teste) · OpenStreetMap Nominatim API · Google Maps / Street View
 
-<p><strong>Publicação e Infraestrutura</strong></p>
+<p><strong>Publicação e Infraestrutura</strong></p> 
 
 <p>
 <picture>
