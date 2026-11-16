@@ -5,7 +5,7 @@
 
 </div>
 
-<p><strong>Ana Gabriella Diógenes</strong></p>
+<font size="6"><strong>Ana Gabriella Diógenes</strong></font>
 
 <p><strong>Business Intelligence & Analytics</strong></p>
 
@@ -13,7 +13,7 @@ Brasil · Universidade de Fortaleza (UNIFOR)
 
 **Análise de Dados** · **Inteligência Artificial** · **Negócios** · **Resolução de Problemas**
 
----
+<hr>
 
 <p><strong>Sobre mim</strong></p>
 
@@ -21,7 +21,7 @@ Exploro a conexão entre dados, inteligência artificial e negócios para desenv
 
 Combino pensamento analítico, visão estratégica e tecnologia para identificar oportunidades, automatizar processos e transformar ideias em soluções inteligentes, com foco na resolução de problemas e na tomada de decisões orientadas por dados.
 
----
+<hr>
 
 <p><strong>Projetos em destaque</strong></p>
 
@@ -130,7 +130,7 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · Integração
 </tr>
 </table>
 
----
+<hr>
 
 <p><strong>Principais competências</strong></p>
 
@@ -144,7 +144,7 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · Integração
 - **Integração com APIs:** Conexão de aplicações a serviços externos e processamento de dados estruturados.
 - **Testes e Validação:** Avaliação do comportamento de aplicações, investigação de falhas e refinamento de soluções por meio de testes funcionais.
 
----
+<hr>
 
 <p><strong>Ferramentas e Tecnologias Utilizadas nos Projetos</strong></p>
 
@@ -242,14 +242,14 @@ Vercel · Render · GitHub
 <strong>LOC VIEW AI:</strong> Aplicação Python e Gradio publicada no Render.
 </p>
 
----
+<hr>
 
 <p><strong>Idiomas</strong></p>
 
 - **Português:** Nativo
 - **Inglês:** Avançado
 
----
+<hr>
 
 <p><strong>Contato</strong></p>
 
