@@ -1,47 +1,47 @@
 
 <div align="right">
 
-**English** &nbsp;·&nbsp; [Português](./README.pt-BR.md)
+[English](./README.md) &nbsp;·&nbsp; **Português**
 
 </div>
 
-<h1>Ana Gabriella Diógenes</h1>
+<p><strong>Ana Gabriella Diógenes</strong></p>
 
-<h3>Business Intelligence & Analytics</h3>
+<p><strong>Business Intelligence & Analytics</strong></p>
 
-Brazil · Universidade de Fortaleza (UNIFOR)
+Brasil · Universidade de Fortaleza (UNIFOR)
 
-**Data Analytics** · **Artificial Intelligence** · **Business** · **Problem Solving**
-
----
-
-<p><strong>About me</strong></p>
-
-I explore the connection between data, artificial intelligence, and business to develop practical solutions that address real-world challenges.
-
-I combine analytical thinking, strategic vision, and technology to identify opportunities, automate processes, and turn ideas into intelligent solutions, focusing on problem-solving and data-driven decision-making.
+**Análise de Dados** · **Inteligência Artificial** · **Negócios** · **Resolução de Problemas**
 
 ---
 
-<p><strong>Featured projects</strong></p>
+<p><strong>Sobre mim</strong></p>
+
+Exploro a conexão entre dados, inteligência artificial e negócios para desenvolver soluções práticas que respondam a desafios reais.
+
+Combino pensamento analítico, visão estratégica e tecnologia para identificar oportunidades, automatizar processos e transformar ideias em soluções inteligentes, com foco na resolução de problemas e na tomada de decisões orientadas por dados.
+
+---
+
+<p><strong>Projetos em destaque</strong></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">
-<img src="https://raw.githubusercontent.com/gabrielladiogenes/LOC-VIEW-AI/main/locview-cover.png" width="100%" alt="LOC VIEW project cover">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/LOC-VIEW-AI/main/locview-cover.png" width="100%" alt="Capa do projeto LOC VIEW">
 </a>
 
-<h3>LOC VIEW</h3>
+<p><strong>LOC VIEW</strong></p>
 
-<strong>Geolocation & Address Intelligence</strong>
+<strong>Geolocalização e Inteligência de Endereços</strong>
 
 <p>
-An address validation and geolocation application that processes location data, retrieves geographic coordinates, and provides access to maps and street-level imagery.
+Aplicação de validação de endereços e geolocalização que processa dados de localização, recupera coordenadas geográficas e disponibiliza acesso a mapas e imagens de ruas.
 </p>
 
-<strong>Technologies used</strong>
+<strong>Tecnologias utilizadas</strong>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python" title="Python">
@@ -60,14 +60,14 @@ Python · Gradio · OpenStreetMap · Nominatim API · Google Maps / Street View 
 </p>
 
 <p>
-<strong>Key capabilities:</strong> Address parsing, geolocation, API integration, input validation, error handling, and functional testing.
+<strong>Principais competências:</strong> Interpretação e validação de endereços, geolocalização, integração com APIs, validação de entradas, tratamento de erros e testes funcionais.
 </p>
 
-<p><strong>Status:</strong> Published</p>
+<p><strong>Status:</strong> Publicado</p>
 
-<a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">View repository</a>
+<a href="https://github.com/gabrielladiogenes/LOC-VIEW-AI">Ver repositório</a>
 &nbsp;·&nbsp;
-<a href="https://loc-view-ai.onrender.com">Live demo</a>
+<a href="https://loc-view-ai.onrender.com">Demonstração online</a>
 
 <br>
 
@@ -75,18 +75,18 @@ Python · Gradio · OpenStreetMap · Nominatim API · Google Maps / Street View 
 <td width="50%" valign="top">
 
 <a href="https://github.com/gabrielladiogenes/safe-food-ai">
-<img src="https://raw.githubusercontent.com/gabrielladiogenes/safe-food-ai/main/public/images/1.jpg" width="100%" alt="SAFE FOOD AI project logo">
+<img src="https://raw.githubusercontent.com/gabrielladiogenes/safe-food-ai/main/public/images/1.jpg" width="100%" alt="Logo do projeto SAFE FOOD AI">
 </a>
 
-<h3>SAFE FOOD AI</h3>
+<p><strong>SAFE FOOD AI</strong></p>
 
-<strong>Generative AI & Food Communication</strong>
+<strong>Inteligência Artificial Generativa e Comunicação Alimentar</strong>
 
 <p>
-An AI-powered application that interprets food-order instructions and dietary restrictions, generates contextual guidance for preparation, handling, packaging, and transportation, and automates communication through an integrated workflow.
+Aplicação baseada em inteligência artificial que interpreta instruções de pedidos alimentares e restrições declaradas, gera orientações contextualizadas para preparo, manuseio, embalagem e transporte e automatiza a comunicação por meio de um fluxo integrado.
 </p>
 
-<strong>Technologies used</strong>
+<strong>Tecnologias utilizadas</strong>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs" width="32" height="32" alt="Next.js" title="Next.js">
@@ -107,22 +107,22 @@ An AI-powered application that interprets food-order instructions and dietary re
 </p>
 
 <p>
-Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Integration · Vercel
+Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · Integração com WhatsApp · Vercel
 </p>
 
 <p>
-<strong>Key capabilities:</strong> Generative AI integration, contextual prompt engineering, workflow automation, dietary instruction processing, uncertainty handling, and functional testing.
+<strong>Principais competências:</strong> Integração de IA generativa, engenharia de prompts contextualizada, automação de fluxos, processamento de instruções alimentares, tratamento de incertezas e testes funcionais.
 </p>
 
 <p>
-<strong>AI-assisted development:</strong> ChatGPT · Claude · VS Code · Cursor (Technical Auditing)
+<strong>Desenvolvimento assistido por IA:</strong> ChatGPT · Claude · VS Code · Cursor (Auditoria Técnica)
 </p>
 
-<p><strong>Status:</strong> MVP Published</p>
+<p><strong>Status:</strong> MVP publicado</p>
 
-<a href="https://github.com/gabrielladiogenes/safe-food-ai">View repository</a>
+<a href="https://github.com/gabrielladiogenes/safe-food-ai">Ver repositório</a>
 &nbsp;·&nbsp;
-<a href="https://safe-food-ai-mu.vercel.app/demo">Live demo</a>
+<a href="https://safe-food-ai-mu.vercel.app/demo">Demonstração online</a>
 
 <br>
 
@@ -132,23 +132,23 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Int
 
 ---
 
-<p><strong>Core skills</strong></p>
+<p><strong>Principais competências</strong></p>
 
-- **Data Analysis:** Interpreting information to support strategic decisions.
-- **Problem Solving:** Developing practical solutions to real-world challenges.
-- **Analytical Thinking:** Identifying patterns, relationships, and opportunities.
-- **Fast Learning:** Exploring new technologies, tools, and approaches.
-- **AI-Powered Development:** Building applications through AI-assisted development and iterative refinement.
-- **Prompt Engineering:** Structuring instructions, business rules, constraints, and validation scenarios for AI-assisted solutions.
-- **Workflow Automation:** Connecting AI services, applications, and communication channels through automated processes.
-- **API Integration:** Connecting applications to external services and processing structured data.
-- **Testing & Validation:** Evaluating application behavior, investigating failures, and refining solutions through functional testing.
+- **Análise de Dados:** Interpretação de informações para apoiar decisões estratégicas.
+- **Resolução de Problemas:** Desenvolvimento de soluções práticas para desafios reais.
+- **Pensamento Analítico:** Identificação de padrões, relações e oportunidades.
+- **Aprendizagem Rápida:** Exploração de novas tecnologias, ferramentas e abordagens.
+- **Desenvolvimento com IA:** Construção de aplicações com apoio de inteligência artificial e refinamento iterativo.
+- **Engenharia de Prompts:** Estruturação de instruções, regras de negócio, restrições e cenários de validação para soluções com IA.
+- **Automação de Fluxos:** Integração de serviços de IA, aplicações e canais de comunicação por meio de processos automatizados.
+- **Integração com APIs:** Conexão de aplicações a serviços externos e processamento de dados estruturados.
+- **Testes e Validação:** Avaliação do comportamento de aplicações, investigação de falhas e refinamento de soluções por meio de testes funcionais.
 
 ---
 
-<p><strong>Tools & Technologies Used on Projects</strong></p>
+<p><strong>Ferramentas e Tecnologias Utilizadas nos Projetos</strong></p>
 
-<p><strong>Programming & Development</strong></p>
+<p><strong>Programação e Desenvolvimento</strong></p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" title="Python">
@@ -162,9 +162,9 @@ Next.js · React · TypeScript · Tailwind CSS · Gemini · Make · WhatsApp Int
 <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS" title="Tailwind CSS">
 </p>
 
-Python · TypeScript · Next.js · React · Tailwind CSS · SQL (Learning)
+Python · TypeScript · Next.js · React · Tailwind CSS · SQL (Em aprendizado)
 
-<p><strong>Business Intelligence & Analytics</strong></p>
+<p><strong>Business Intelligence e Análise de Dados</strong></p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" height="42" width="42" alt="Power BI" title="Power BI">
@@ -174,7 +174,7 @@ Python · TypeScript · Next.js · React · Tailwind CSS · SQL (Learning)
 
 Power BI · Excel
 
-<p><strong>Development & Automation</strong></p>
+<p><strong>Desenvolvimento e Automação</strong></p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" title="GitHub">
@@ -188,7 +188,7 @@ Power BI · Excel
 
 GitHub · VS Code · Google Colab · Make
 
-<p><strong>Vibe Coding & AI-Assisted Development</strong></p>
+<p><strong>Vibe Coding e Desenvolvimento Assistido por IA</strong></p>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="42" width="42" alt="ChatGPT" title="ChatGPT">
@@ -201,10 +201,10 @@ GitHub · VS Code · Google Colab · Make
 ChatGPT · Claude · Cursor
 
 <p>
-AI-assisted coding · Natural-language specifications · Iterative development · Debugging · Code review
+Programação assistida por IA · Especificações em linguagem natural · Desenvolvimento iterativo · Depuração · Revisão de código
 </p>
 
-<p><strong>Generative AI & Integrations</strong></p>
+<p><strong>IA Generativa e Integrações</strong></p>
 
 <p>
 <img src="https://raw.githubusercontent.com/gabrielladiogenes/gabrielladiogenes/main/assets/gemini-logo.svg" height="42" width="42" alt="Google Gemini" title="Google Gemini">
@@ -216,9 +216,9 @@ AI-assisted coding · Natural-language specifications · Iterative development �
 <img src="https://cdn.simpleicons.org/openstreetmap" height="42" width="42" alt="OpenStreetMap" title="OpenStreetMap">
 </p>
 
-Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim API · Google Maps / Street View
+Google Gemini · Make · WhatsApp (Integração de Teste) · OpenStreetMap Nominatim API · Google Maps / Street View
 
-<p><strong>Deployment & Infrastructure</strong></p>
+<p><strong>Publicação e Infraestrutura</strong></p>
 
 <p>
 <picture>
@@ -235,22 +235,22 @@ Google Gemini · Make · WhatsApp (Test Integration) · OpenStreetMap Nominatim 
 Vercel · Render · GitHub
 
 <p>
-<strong>SAFE FOOD AI:</strong> Next.js application deployed on Vercel.
+<strong>SAFE FOOD AI:</strong> Aplicação Next.js publicada na Vercel.
 </p>
 
 <p>
-<strong>LOC VIEW AI:</strong> Python and Gradio application deployed on Render.
+<strong>LOC VIEW AI:</strong> Aplicação Python e Gradio publicada no Render.
 </p>
 
 ---
 
-<p><strong>Languages</strong></p>
+<p><strong>Idiomas</strong></p>
 
-- **Portuguese:** Native
-- **English:** Advanced
+- **Português:** Nativo
+- **Inglês:** Avançado
 
 ---
 
-<p><strong>Contact</strong></p>
+<p><strong>Contato</strong></p>
 
 [Email](mailto:anagabrielladev@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ana-gabriella-diógenes-772548306/)
