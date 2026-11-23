@@ -20,9 +20,9 @@ Brasil · Universidade de Fortaleza (UNIFOR)
 
 <p><strong>Sobre mim</strong></p>
 
-Exploro a conexão entre dados, inteligência artificial e negócios para desenvolver soluções práticas que respondam a desafios reais.
+A conexão entre dados, inteligência artificial e negócios é o ponto de partida para desenvolver soluções inovadoras que respondam a desafios reais.
 
-Combino pensamento analítico, visão estratégica e tecnologia para identificar oportunidades, automatizar processos e transformar ideias em soluções inteligentes, com foco na resolução de problemas e na tomada de decisões orientadas por dados.
+Com pensamento analítico, visão estratégica e tecnologia, busco identificar oportunidades, otimizar processos e transformar ideias em soluções práticas e inteligentes, com foco na resolução de problemas, na geração de valor e na tomada de decisões orientadas por dados.
 
 <hr>
 
