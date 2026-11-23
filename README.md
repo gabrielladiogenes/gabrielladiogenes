@@ -17,9 +17,9 @@ Brazil · University of Fortaleza (UNIFOR)
 
 <p><strong>About Me</strong></p>
 
-I explore the intersection of data, artificial intelligence, and business to develop practical solutions that address real-world challenges.
+The connection between data, artificial intelligence, and business is the starting point for developing innovative solutions that address real world challenges.
 
-I combine analytical thinking, strategic vision, and technology to identify opportunities, automate processes, and turn ideas into intelligent solutions, with a focus on problem-solving and data-driven decision-making.
+By combining analytical thinking, strategic vision, and technology, I seek to identify opportunities, optimize processes, and turn ideas into practical, intelligent solutions, with a focus on problem solving, value creation, and data-driven decision making.
 
 <hr>
 
